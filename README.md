@@ -1,0 +1,1 @@
+Questo repository è stato creato per pubblicare i risultati di generazione ottenuti con il modello Mistral-Fervento. Quest'ultimo è il risultato del lavoro di tirocinio curriculare del Corso di Laurea Triennale in Informatica svolto presso l'azienda Fervento 
